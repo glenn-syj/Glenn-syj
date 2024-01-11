@@ -6,6 +6,7 @@
   - **Important** 자원과 컨벤션에 맞춰 개발하기
   - **MBTI** INTJ
   - **On Focus** 공식문서 탐구, 뉴스레터 읽기, 토이 프로젝트, 알고리즘.
+  - **각오** (1) B형따기 (2) 1학기 수료 후 취업
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=glennsyj)](https://solved.ac/glennsyj)
   
@@ -36,6 +37,9 @@
 
 **서울대학교 미학과 (2016.03~2024.02)**
 - 「『장자』 내 ‘기술’ 비유의 의미 탐구 - 언어와 지식에 관한 문제 의식을 중심으로 -」 (2023)
+
+- **동양미학특강**
+  - 『장자』를 구절마다 독해하며, 국내 학계에서의 일반적인 해석과는 다른 논이를 나눌 수 있었습니다.
 
 ## Contact
 glenn.syj@gmail.com
