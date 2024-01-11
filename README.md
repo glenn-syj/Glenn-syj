@@ -7,6 +7,8 @@
   - **MBTI** INTJ
   - **On Focus** 공식문서 탐구, 뉴스레터 읽기, 토이 프로젝트, 알고리즘.
   
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=glennsyj)](https://solved.ac/glennsyj)
+  
   ### Websites
   
   [Developer Blog](https://velog.io/@glenn_syj/posts)
