@@ -1,15 +1,47 @@
 ## About ME
-
-  ### Introduction
  
-  - **Birth(yy/mm/dd)** 97/09/27
-  - **Important** 자원과 컨벤션에 맞춰 개발하기
-  - **MBTI** INTJ
-  - **On Focus** 공식문서 탐구, 뉴스레터 읽기, 토이 프로젝트, 알고리즘.
-  - **각오** (1) B형따기 (2) 1학기 수료 후 취업
+  ### 인적사항  
+  - `Birth(yy/mm/dd)` 97/09/27
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=glennsyj)](https://solved.ac/glennsyj)
+  - `Major` 미학과
+    - *동양미학특강* 
+    1. 『장자』를 구절마다 독해하며, 통합적 해석 시도 및 비판적 논의
+    
+    2. 국내 학계의 주류적 해석과는 다르나, 국제적 장자 연구에서의 주류 논의 내 포섭
+    
+    3. 동양에서의 기술과 예술에 대한 초기적 인식 -- 졸업논문 주제 기반
+  - `MBTI` INTJ
+  - `Prefer` 일단 해두고 쉬기, 나중에 수정하기
+  - `Forte` 글 쓰기 (블로그, 컨벤션 문서, 소개 글, ...)
+  - `Do's` 다양한 분야에 대한 이야기들 (기술, 비즈니스, 금융, 예술, ...)
+  - `Don'ts` 발라드는 싫어합니다...
+
+
+  ### 어떤 개발자가 되고 싶은가? 
+  - `Important` 자원과 컨벤션에 맞춰 효율적으로 개발하기
   
+  - `On Focus` 공식문서 탐구, 뉴스레터 읽기, 토이 프로젝트, 알고리즘
+
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=glennsyj)](https://solved.ac/glennsyj)
+
+  - `Motivation` 연구-실무, 자동화, 비즈니스/수익
+  
+  ### SSAFY에서
+
+  - `Door to Door` 1시간 10분 ~ 1시간 20분
+
+  - `Goals` (1) B형따기 (2) 1학기 수료 후 취업
+  
+  - `Study Group`
+    
+    1. 취업 대비 *얕고 광범위한* Computer Science (목차/주제 별 발제 선호)
+    
+    2. 코딩 테스트 대비 *널널한* 알고리즘 스터디 (각자 공부한 내용 온라인 공유)
+
+  - `Mindset` 꾸준한 TIL에서 블로그 글으로.
+
+  - `I Need` 약속 없는 날, 퇴근 길을 피해서 공부하다 갈 사람들 
+
   ### Websites
   
   [Developer Blog](https://velog.io/@glenn_syj/posts)
@@ -23,23 +55,12 @@
 
 ### 와플스튜디오 (2023.07 ~ )
 
-`WaffleStudio`
 - **Rookie**: 안드로이드 세미나 수강
 - `Jetpack Compose` `Retrofit2` `Moshi` `Okhttp` `Dagger-hilt` `MVVM pattern`
 
 ### 삼성 청년 SW 아카데미(SSAFY) (2024.01 ~ )
-`Samsung Software Academy For Youth`
-- 자바 비전공반 과정 수강 중
 
-## Education
-
-### Bachelor's Degree
-
-**서울대학교 미학과 (2016.03~2024.02)**
-- 「『장자』 내 ‘기술’ 비유의 의미 탐구 - 언어와 지식에 관한 문제 의식을 중심으로 -」 (2023)
-
-- **동양미학특강**
-  - 『장자』를 구절마다 독해하며, 국내 학계에서의 일반적인 해석과는 다른 논이를 나눌 수 있었습니다.
+- 자바 과정 수강 중
 
 ## Contact
 glenn.syj@gmail.com
