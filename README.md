@@ -13,6 +13,7 @@
   - `MBTI` INTJ
   - `Prefer` 일단 해두고 쉬기, 나중에 수정하기
   - `Forte` 글 쓰기 (블로그, 컨벤션 문서, 소개 글, ...)
+  - `Enjoy` 음악 디깅, ...
   - `Do's` 다양한 분야에 대한 이야기들 (기술, 비즈니스, 금융, 예술, ...)
   - `Don'ts` 발라드는 싫어합니다...
 
@@ -41,7 +42,7 @@
   - `I Need` 약속 없는 날, 퇴근 길을 피해서 공부하기
 
   ### Websites
-  
+
   [TIL](https://github.com/Glenn-syj/TIL)
   [Developer Blog](https://velog.io/@glenn_syj/posts)
 
