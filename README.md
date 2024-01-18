@@ -30,20 +30,19 @@
 
   - `Door to Door` 1시간 10분 ~ 1시간 20분
 
-  - `Goals` (1) B형따기 (2) 1학기 수료 후 취업
+  - `Goals` (1) B형따기 (2) 1학기 수료 후 2학기 중 취업
   
   - `Study Group`
     
     1. 취업 대비 *얕고 광범위한* Computer Science (목차/주제 별 발제 선호)
-    
-    2. 코딩 테스트 대비 *널널한* 알고리즘 스터디 (각자 공부한 내용 온라인 공유)
 
   - `Mindset` 꾸준한 TIL에서 블로그 글으로.
 
-  - `I Need` 약속 없는 날, 퇴근 길을 피해서 공부하다 갈 사람들 
+  - `I Need` 약속 없는 날, 퇴근 길을 피해서 공부하기
 
   ### Websites
   
+  [TIL](https://github.com/Glenn-syj/TIL)
   [Developer Blog](https://velog.io/@glenn_syj/posts)
 
 ## Skills
