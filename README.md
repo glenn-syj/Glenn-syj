@@ -43,8 +43,9 @@
 
   ### Websites
 
-  [TIL](https://github.com/Glenn-syj/TIL)
-  [Developer Blog](https://velog.io/@glenn_syj/posts)
+  [TIL](https://github.com/Glenn-syj/TIL) </br>
+  [Developer Blog](https://velog.io/@glenn_syj/posts) </br>
+  [Just-Do-Algorithms](https://github.com/Glenn-syj/just-do-algorithms)
 
 ## Skills
 
