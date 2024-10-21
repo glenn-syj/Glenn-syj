@@ -1,13 +1,16 @@
 ## About ME
 
   ### 어떤 개발자가 되고 싶은가? 
-  - `Important` 자원과 컨벤션에 맞춰 효율적으로 개발하기
+  - 문제 분석은 즐겁다
+    전체적인 흐름에서 시작해 , 세부적인 문제 상황을 해결하기를 즐깁니다
+  - 선택은 환경에 기반한다
+    주어진 자원과 환경에서 최적의 해결책을 모색합니다
+  - 협업은 함께하는 성장이다
+    문제 상황을 적극적으로 고민하고 지식과 의견을 공유합니다
   
   - `On Focus` 공식문서 탐구, 뉴스레터 읽기, 토이 프로젝트, 알고리즘
 
     [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=glennsyj)](https://solved.ac/glennsyj)
-
-  - `Motivation` 연구-실무, 자동화, 비즈니스/수익
   
 
   ### Websites
