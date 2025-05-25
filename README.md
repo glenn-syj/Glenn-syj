@@ -27,11 +27,9 @@
 
 ## Organization
 
-### 삼성 청년 SW 아카데미(SSAFY) (2024.01 ~ )
+### 삼성 청년 SW 아카데미(SSAFY) (2024.01 ~ 2024.12)
 
-- 자바 과정 수강 중
-
-### 와플스튜디오 (2023.07 ~ )
+### 와플스튜디오 (2023.07 ~ 2024.02)
 
 - **Rookie**: 안드로이드 세미나 수강
 - `Jetpack Compose` `Retrofit2` `Moshi` `Okhttp` `Dagger-hilt` `MVVM pattern`
