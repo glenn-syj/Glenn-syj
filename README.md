@@ -1,5 +1,8 @@
 ## YeongJun Son
 
+Currently working as a Software Engineer.
+Deep dives into software development, from practice to principles.
+
 ### Websites
 
 [Developer Blog - Korean](https://glenn-syj.github.io/) </br>
