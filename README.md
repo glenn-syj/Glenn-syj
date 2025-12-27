@@ -28,7 +28,7 @@ Aesthetics, Seoul National Univ. (2016.03 ~ 2024.02)
 
 ## Organization
 
-### Samsung Software Acadmey For Youth (2024.01 ~ 2024.12)
+### Samsung Software Academy For Youth (2024.01 ~ 2024.12)
 
 ### WaffleStudio (2023.07 ~ 2024.02)
 
