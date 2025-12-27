@@ -1,15 +1,24 @@
 ## YeongJun Son
 
-Currently working as a Software Engineer.
+Currently working as a Software Engineer. </br>
 Deep dives into software development, from practice to principles.
 
 ### Websites
 
 [Developer Blog - Korean](https://glenn-syj.github.io/) </br>
 
-## Skills
+- Latest Article (KR): [프로그래밍을 이루는 세 가지 축에 대한 개인적 이해](https://glenn-syj.github.io/ko/posts/2025/12/06/three-pillars-of-programming-on-my-mind/)
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="50px" height="50px" title="Java" style="display: inline-block"> </img> <img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" width="50px" height="50px" title="Kotlin" style="display: inline-block"></img> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50px" height="50px" title="Python" style="display: inline-block"></img> <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="50px" height="50px" title="Android" style="display: inline-block"></img> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50px" height="50px" title="Git" style="display: inline-block"></img> </p>
+## Interests
+
+### Professionally
+- Bakend system architecture and information flow
+- Practical applications of RAG and Text-to-SQL
+- Agentic system design and operation
+
+### Personally
+- Search system architecture and information retrieval
+- Exploring AI and LLMs from a data and systems perspective
 
 ## Education
 
