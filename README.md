@@ -7,7 +7,7 @@ Deep dives into software development, from practice to principles.
 
 [Developer Blog - Korean](https://glenn-syj.github.io/) </br>
 
-- Latest Article (KR): [프로그래밍을 이루는 세 가지 축에 대한 개인적 이해](https://glenn-syj.github.io/ko/posts/2025/12/06/three-pillars-of-programming-on-my-mind/)
+- Latest Article (KR): [벡터를 바닥부터 뜯어보기](https://glenn-syj.github.io/ko/posts/2026/01/11/understanding-the-vector/)
 
 ## Interests
 
